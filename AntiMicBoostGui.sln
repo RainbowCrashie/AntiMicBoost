@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiMicBoostGui", "AntiMicBoostGui\AntiMicBoostGui.csproj", "{900384DA-9F47-4C4D-887A-2BB02BA7CC80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900384DA-9F47-4C4D-887A-2BB02BA7CC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900384DA-9F47-4C4D-887A-2BB02BA7CC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900384DA-9F47-4C4D-887A-2BB02BA7CC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900384DA-9F47-4C4D-887A-2BB02BA7CC80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CCAA3E-8E62-4510-B0A6-291972EC7988}
+	EndGlobalSection
+EndGlobal
